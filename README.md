@@ -1,7 +1,7 @@
 # dark-web-research_Beginners
 
 📄 **Full Report (PDF):**  
-[Click here to view the report](./1.how to access dark web_Beginner.pdf)
+[Click here to view the report](./dark_web_access_beginner.pdf)
 
 This report explores:
 - What the Dark Web is
